@@ -23,3 +23,23 @@ main {
 .slides {
   width: 3000px;
 }
+
+.slides-0 {
+  translate: 0;
+}
+
+.slides-1 {
+  translate: -600px 0 0;
+}
+
+.slides-2 {
+  translate: -1200px 0 0;
+}
+
+.slides-3 {
+  translate: -1800px 0 0;
+}
+
+.slides-4 {
+  translate: -2400px 0 0;
+}
