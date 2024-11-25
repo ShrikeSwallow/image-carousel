@@ -1,1 +1,25 @@
 @import "../node_modules/modern-normalize/modern-normalize.css";
+
+main {
+  background-color: #f7fee7;
+  display: flex;
+  justify-content: center;
+}
+
+/* img {
+  display: inline;
+} */
+
+.content {
+  width: 600px;
+  display: flex;
+  flex-direction: column;
+}
+
+.container {
+  overflow: hidden;
+}
+
+.slides {
+  width: 3000px;
+}
