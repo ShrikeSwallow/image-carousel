@@ -20,7 +20,12 @@ main {
   overflow: hidden;
 }
 
-.slides {
+.slides,
+.slides-0,
+.slides-1,
+.slides-2,
+.slides-3,
+.slides-4 {
   width: 3000px;
 }
 
